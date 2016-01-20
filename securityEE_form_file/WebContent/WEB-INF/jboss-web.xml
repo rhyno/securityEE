@@ -1,0 +1,5 @@
+<jboss-web>
+	<context-root>security_form</context-root>
+	<security-domain>java:/jaas/other</security-domain>
+
+</jboss-web>
